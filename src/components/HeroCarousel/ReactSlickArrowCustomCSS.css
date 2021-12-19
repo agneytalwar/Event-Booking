@@ -1,0 +1,28 @@
+/* react_slick_slider_parent.slick-prev {
+    left: 3% ;
+    z-index: 1;
+  }
+react_slick_slider_parent.slick-next {
+    right: 3% ;
+    z-index: 1;
+  } */
+
+  /* .react__slick__slider__parent {
+    position: relative;
+  }
+  
+  .react__slick__slider__parent .slick-prev,
+  .react__slick__slider__parent .slick-next {
+    position: absolute;
+    top: 50%;
+  } */
+  .react__slick__slider__parent .slick-prev {
+    left:3%;
+    z-index: 1;
+  }
+  .react__slick__slider__parent .slick-next {
+    right:3%;
+    z-index: 1;
+  }
+  
+  
