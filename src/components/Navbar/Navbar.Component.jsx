@@ -39,11 +39,12 @@ function NavLg(){
                    </div> */}
                    {/* <div className="text-white py-1 text-xl">show</div> */}
                    <div className="flex">
-                       <div className="text-white py-1 text-xl">book</div>
+                       {/* <div className="text-white py-1 text-xl">book</div>
                        <div className="w-10 h-10">
                             <img src='https://i.ibb.co/zPBYW3H/imgbin-bookmyshow-office-android-ticket-png.png' alt='logo' className="w-full h-full" />
                         </div>
-                       <div className="text-white py-1 text-xl">show</div>
+                       <div className="text-white py-1 text-xl">show</div> */}
+                       <div className="text-white py-1 text-xl">BingeWatch</div>
                    </div>
                    <div className="w-full flex items-center gap-3 bg-white px-3 py-1 rounded-md">
                        <BiSearch />

@@ -10,7 +10,7 @@ const DefaultLayout = (props) => {
             {/* <HeroCarousel />
             <EntertainmentCardSlider /> */}
             {props.children}
-            <div>Footer</div>
+            <div>CREATED BY ANMOL KAPOOR AND AGNEY S TALWARR</div>
         </div>
     );
 };
